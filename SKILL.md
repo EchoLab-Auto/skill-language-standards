@@ -1,5 +1,5 @@
 ---
-name: skill-language-standards
+name: language-standards
 description: 指导 Agent 在与人类对话时始终使用中文
 ---
 
